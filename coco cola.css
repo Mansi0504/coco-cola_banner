@@ -1,0 +1,54 @@
+
+.banner img{
+    margin-top: 15%;
+    width: 300px;
+    height: 250px; 
+    margin-left: 40%;
+    border-radius: 20px;
+    box-shadow: 10px 10px #FF7377;
+    
+}
+
+
+/* .logo img{
+    height: 100px;
+    width: 100px;
+    margin-left: 40%;
+    margin-top: -100px;
+} */
+ 
+.content{
+
+    font-family: 'Dancing Script', cursive; 
+    margin-right: -9%; 
+    margin-top: -180px;
+     text-align: center; 
+     font-size: 0.7rem; 
+     color: white;
+
+}
+.gif_content{
+    margin-left: 150px;
+    height: 500px;
+    margin-top: -180px;
+
+}
+
+.btn{
+    width: 90px;
+  height: 30px;
+  background: white;
+  transition: width 2s;
+  color: black;
+  margin-left: 52%;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 3px solid lightcoral;
+}
+
+.btn:hover {
+    width: 110px;
+    background-color: lightgray;
+    color: black;
+}
